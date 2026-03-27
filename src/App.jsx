@@ -6,12 +6,9 @@ const CARD = {
   /** Short line under the name */
   subtitle: 'With love',
   /** Main message — edit freely */
-  message: `Thank you for everything you do.
-Your kindness and strength mean the world.
-
-Happy Father's Day — today and every day.`,
+  message: "Happy Fathers Day Papa! Thank you for all that you've done, I cherish every memory from crawling into ancient pyramids to crawling after Alpha on our walks. I look forward to every laugh, every sweet moment, and every chance to make fun of Elon Musk. You are my inspiration, I am so lucky to have a role model like you. I love you past the last standard deviation and back! ",
   /** Footer signature */
-  from: '— Your family',
+  from: '— Arnav and Ankitt',
 }
 
 function App() {
